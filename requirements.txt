@@ -1,0 +1,13 @@
+backports.statistics==0.1.0
+boto3==1.43.118
+botocore==1.43.118
+brotli==1.2.1
+brotlicffi==1.2.1.0
+chardet==7.7.0
+cryptography==50.0.2
+h2==4.4.1
+js==1.0
+pyodide==0.0.2
+pyOpenSSL==26.4.0
+simplejson==4.2.0
+typing_extensions==4.16.0

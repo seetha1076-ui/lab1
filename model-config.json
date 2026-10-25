@@ -1,0 +1,8 @@
+   {
+     "modelId": "us.amazon.nova-lite-v1:0",
+     "region": "us-east-1",
+     "maxTokens": 512,
+     "temperature": 0.5,
+     "topP": 0.9,
+     "systemPrompt": "You are a concise AWS tutor."
+   }
